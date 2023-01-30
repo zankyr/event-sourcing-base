@@ -1,0 +1,8 @@
+{"type":"user-created","id":"shakira@shakira.es","username":"Shaky","createdAt":1675066461535}
+{"type":"user-created","id":"piero.pompiero@google,com","username":"pierpompy","createdAt":1675066461535}
+{"type":"item-created","itemId":"Rolex Daytona","cost":13000,"createdAt":1675066461537}
+{"type":"item-created","itemId":"Omega SpeedMaster","cost":8000,"createdAt":1675066461538}
+{"type":"item-created","itemId":"Casio Twingo","cost":130,"createdAt":1675066461538}
+{"type":"item-bought","itemId":"Casio Twingo","userId":"shakira@shakira.es","amount":100,"timestamp":1675066461538}
+{"type":"item-bought","itemId":"Casio Twingo","userId":"piero.pompiero@google,com","amount":50,"timestamp":1675066461539}
+{"type":"item-sold","itemId":"Casio Twingo","userId":"shakira@shakira.es","amount":100,"timestamp":1675066461539}
